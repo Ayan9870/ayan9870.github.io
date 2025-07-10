@@ -174,7 +174,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
-const heroTitle = document.querySelector('.hero-section h2');
+const heroTitle = document.querySelector('.typewriter-text');
 const titles = [
     'Data Scientist',
     'Machine Learning Engineer',
